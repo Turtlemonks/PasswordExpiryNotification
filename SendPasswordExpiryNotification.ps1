@@ -20,7 +20,7 @@
 # Example Usage:
 #     .\SendPasswordExpiryNotification.ps1 -ConfigFile ".\config.json" -AdminAccountsFile ".\admin_accounts.json"
 # Author:
-#     Eric Givans
+#     Turtlemonks
 # Date:
 #     08/05/24
 # Configuration Instructions:
