@@ -1,0 +1,17 @@
+{
+    "SMTPServer": "smtp.example.com",
+    "FromAddress": "no-reply@example.com",
+    "ReplyToAddress": "support@example.com",
+    "SubjectPrefix": "[Password Expiry Notification]",
+    "DaysBeforeExpiry": 14,
+    "FinalWarningDays": 7,
+    "CompanyLogoURL": "https://example.com/logo.png",
+    "LogDirectory": "C:\\Logs\\PasswordExpiry",
+    "LogRetentionDays": 30,
+    "EmailTemplates": {
+        "GeneralWarning": "GeneralWarning.html",
+        "FinalWarning": "FinalWarning.html",
+        "Alert": "Alert.html"
+    },
+    "BatchSize": 100
+}

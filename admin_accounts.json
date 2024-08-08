@@ -1,0 +1,6 @@
+{
+    "AdminAccounts": {
+        "admin1": "admin1@example.com",
+        "admin2": "admin2@example.com"
+    }
+}
